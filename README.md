@@ -1,6 +1,6 @@
 # Tratamento de dados desbalanceados
 
-👉 Para o trabalho de classificação de uma base de dados, é necessário antes balancear suas classes, pois as classes balanceadas traz melhora para o modelo. 
+👉 Antes do trabalho de classificação de uma base de dados, é necessário balancear suas classes, pois as classes balanceadas traz uma melhora para o modelo. 
 
 👩🏾‍💻 Existem algumas técnicas de amostragem que são utilizadas para o balanceamento das classes. 
 
